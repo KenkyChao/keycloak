@@ -20,7 +20,7 @@
 
 
 @snap[north-east span-30 text-08]
-@box[bg-gold](第一部分: Innodb锁分类)
+@box[bg-gold](一、OAuth2介绍与使用)
 @snapend
 
 @snap[east span-30 text-08]
