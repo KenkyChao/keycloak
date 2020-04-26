@@ -6,12 +6,10 @@
 
 
 
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?color=linear-gradient(90deg, white 100%, black 100%)
 @snap[west span-40 text-center]
 
 @snapend
-
-
 @snap[north-east span-30 text-08]
 @box[bg-gold](一、OAuth 2.0框架)
 @snapend
