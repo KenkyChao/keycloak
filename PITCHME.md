@@ -1,5 +1,4 @@
 ---?color=linear-gradient(90deg, white 100%, black 100%)
-@snap[west span-40 text-center]
 
 @snapend
 @snap[north-east span-30 text-08]
@@ -11,6 +10,7 @@
 @snapend
 
 @snap
+@snap[north-east span-30 text-08]
 @box[bg-blue](三、springboot整合keycloak)
 @snapend
 
