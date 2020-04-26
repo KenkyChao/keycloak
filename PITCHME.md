@@ -20,7 +20,7 @@
 
 
 @snap[north-east span-30 text-08]
-@box[bg-gold](一、OAuth 2.0)
+@box[bg-gold](一、OAuth 2.0框架)
 @snapend
 
 @snap[east span-30 text-08]
