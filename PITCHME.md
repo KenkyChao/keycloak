@@ -2,15 +2,15 @@
 @snap[west span-40 text-center]
 
 @snapend
-@snap[north-east span-50 text-08]
+@snap[north-east span-30 text-08]
 @box[bg-gold](一、OAuth 2.0框架)
 @snapend
 
-@snap[east span-50 text-08]
+@snap[east span-30 text-08]
 @box[bg-green](二、keycloak)
 @snapend
 
-@snap[south-east span-50 text-08]
+
 @box[bg-blue](三、springboot整合keycloak)
 @snapend
 
