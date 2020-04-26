@@ -10,7 +10,7 @@
 @box[bg-green](二、keycloak)
 @snapend
 
-
+@snap
 @box[bg-blue](三、springboot整合keycloak)
 @snapend
 
