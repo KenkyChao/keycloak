@@ -1,5 +1,5 @@
 @snap[text-09]
-## REST API专题
+## OAuth 2.0专题
 @snapend
 @snap[text-09]
 @snapend
@@ -20,15 +20,19 @@
 
 
 @snap[north-east span-30 text-08]
-@box[bg-gold](第一部分: Innodb锁分类)
+@box[bg-gold](第一部分: OAuth 2.0)
 @snapend
 
 @snap[east span-30 text-08]
-@box[bg-green](第二部分: Innodb中的死锁)
+@box[bg-green](第二部分: 使用springboot2+oauth2)
 @snapend
 
 @snap[south-east span-30 text-08]
-@box[bg-blue](第三部分: MySQL中的元数据锁)
+@box[bg-blue](第三部分: keycloak)
+@snapend
+
+@snap[south-east span-30 text-08]
+@box[bg-blue](第四部分: 使用springboot2+keycloak)
 @snapend
 
 ---
