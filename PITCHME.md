@@ -1,5 +1,5 @@
 @snap[text-09]
-## OAuth 2.0专题
+## rest api
 @snapend
 @snap[text-09]
 @snapend
