@@ -10,7 +10,7 @@
 @snap[west span-40 text-center]
 
 @ul[text-07 mt]
-- 一、OAuth2介绍与使用
+- 一、OAuth 2.0介绍与使用
 - 二、OAuth2介绍与使用
 - 三、OAuth2介绍与使用
 - 四、OAuth2介绍与使用。
@@ -20,15 +20,15 @@
 
 
 @snap[north-east span-30 text-08]
-@box[bg-gold](一、OAuth2介绍与使用)
+@box[bg-gold](一、OAuth 2.0)
 @snapend
 
 @snap[east span-30 text-08]
-@box[bg-green](第二部分: Innodb中的死锁)
+@box[bg-green](二、keycloak)
 @snapend
 
 @snap[south-east span-30 text-08]
-@box[bg-blue](第三部分: MySQL中的元数据锁)
+@box[bg-blue](三、springboot整合keycloak)
 @snapend
 
 ---
