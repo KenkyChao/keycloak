@@ -24,7 +24,7 @@
 @snapend
 
 @snap[east span-30 text-08]
-@box[bg-green](第二部分: 使用springboot2+oauth2)
+@box[bg-gold](第二部分: 使用springboot2+oauth2)
 @snapend
 
 @snap[south-east span-30 text-08]
