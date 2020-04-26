@@ -9,13 +9,6 @@
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 @snap[west span-40 text-center]
 
-@ul[text-07 mt]
-- 一、OAuth 2.0介绍与使用
-- 二、OAuth2介绍与使用
-- 三、OAuth2介绍与使用
-- 四、OAuth2介绍与使用。
-@ulend
-
 @snapend
 
 
